@@ -1,0 +1,12 @@
+дек. 03, 2022 7:03:14 PM Homework.Lesson_2.FourthTask main
+SEVERE: Задано вычислить 5.0+5.0
+дек. 03, 2022 7:03:14 PM Homework.Lesson_2.FourthTask main
+SEVERE: Done
+дек. 03, 2022 7:07:18 PM Homework.Lesson_2.FourthTask main
+SEVERE: Задано вычислить 5.0+2.0
+дек. 03, 2022 7:07:18 PM Homework.Lesson_2.FourthTask main
+SEVERE: Done
+дек. 03, 2022 7:40:47 PM Homework.Lesson_2.Task_4 main
+SEVERE: Задано вычислить 5.0-6.0
+дек. 03, 2022 7:40:47 PM Homework.Lesson_2.Task_4 main
+SEVERE: Done

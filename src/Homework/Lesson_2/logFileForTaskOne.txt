@@ -1,0 +1,18 @@
+дек. 03, 2022 7:35:59 PM Homework.Lesson_2.FirstTask main
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 03, 2022 7:35:59 PM Homework.Lesson_2.FirstTask main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+дек. 03, 2022 7:35:59 PM Homework.Lesson_2.FirstTask main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+дек. 03, 2022 7:39:55 PM Homework.Lesson_2.Task_1 main
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 03, 2022 7:39:55 PM Homework.Lesson_2.Task_1 main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+дек. 03, 2022 7:39:55 PM Homework.Lesson_2.Task_1 main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
+дек. 08, 2022 8:39:59 PM Homework.Lesson_2.Task_1 main
+INFO: Запись лога с уровнем INFO (информационная)
+дек. 08, 2022 8:39:59 PM Homework.Lesson_2.Task_1 main
+WARNING: Запись лога с уровнем WARNING (Предупреждение)
+дек. 08, 2022 8:39:59 PM Homework.Lesson_2.Task_1 main
+SEVERE: Запись лога с уровнем SEVERE (серъёзная ошибка)
